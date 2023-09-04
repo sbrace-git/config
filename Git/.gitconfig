@@ -1,0 +1,9 @@
+[gui]
+	encoding = utf-8
+[alias]
+	st = status
+	sw = switch
+	co = checkout
+	br = branch
+	ci = commit
+	rt = restore
