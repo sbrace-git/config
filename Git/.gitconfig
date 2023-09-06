@@ -1,9 +1,15 @@
 [gui]
 	encoding = utf-8
 [alias]
+	br = branch
+	cf = config
+	ci = commit
+	cl = clean
+	co = checkout
+	mg = merge
+	ro = remote
+	rt = restore
 	st = status
 	sw = switch
-	co = checkout
-	br = branch
-	ci = commit
-	rt = restore
+[core]
+	longpaths = true
