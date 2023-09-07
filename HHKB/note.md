@@ -20,3 +20,8 @@ layer 0
 ![layer 0](pic/01/layer_0.png)  
 layer 1  
 ![layer 1](pic/01/layer_1.png)  
+- **bin/02/HHKB_BLE.BIN**  
+layer 0  
+![layer 0](pic/02/layer_0.png)  
+layer 1  
+![layer 1](pic/02/layer_1.png)  
