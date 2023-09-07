@@ -12,11 +12,11 @@ Keymap Builder for HHKB BLE [ydkb.io](https://ydkb.io/)
 - **bin/00/HHKB_BLE.BIN**  
 (default)  
 layer 0  
-![layer 0](pic/00/layer_0.png)
+![layer 0](pic/00/layer_0.png)  
 layer 1  
-![layer 1](pic/00/layer_1.png)
+![layer 1](pic/00/layer_1.png)  
 - **bin/01/HHKB_BLE.BIN**  
 layer 0  
-![layer 0](pic/01/layer_0.png)
+![layer 0](pic/01/layer_0.png)  
 layer 1  
-![layer 1](pic/01/layer_1.png)
+![layer 1](pic/01/layer_1.png)  
