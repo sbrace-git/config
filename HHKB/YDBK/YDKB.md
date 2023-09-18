@@ -28,3 +28,5 @@ Keymap Builder for HHKB BLE [ydkb.io](https://ydkb.io/)
 	![layer 0](pic/01/layer_0.png)  
 	layer 1  
 	![layer 1](pic/01/layer_1.png)  
+	layer 2  
+	![layer 2](pic/01/layer_2.png)  
