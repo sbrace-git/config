@@ -13,6 +13,7 @@ Keymap Builder for HHKB BLE [ydkb.io](https://ydkb.io/)
 - 同时按 左右 Shift + B 重启键盘,立即按住 Esc 不放,进入刷机模式
 - 电脑会识别出一个名为 HHKB_BLE 的磁盘
 - 进入 HHKB_BLE 磁盘, 替换 HHKB_BLE.BIN
+- 右键弹出该磁盘或再按一次 Esc 退出(有时刷完是自动退出), 刷机完成
 
 ---
 
