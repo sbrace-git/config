@@ -64,6 +64,8 @@ Windows Settings
 
 - OneDrive
 - Cortana
+- Widgets  
+    winget uninstall "windows web experience pack"
 
 
 
