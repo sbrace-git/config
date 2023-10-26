@@ -16,6 +16,8 @@ set smartcase
 
 set backspace=indent,eol,start
 
+set incsearch
+
 if has('gui_running')
     if has('gui_win32')
         set guifont=Consolas:h14:cANSI:qDRAFT
@@ -23,3 +25,4 @@ if has('gui_running')
 endif
 
 nnoremap <silent> <C-l> :<C-u>nohlsearch<CR><C-l>
+
