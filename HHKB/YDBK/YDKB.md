@@ -1,6 +1,8 @@
 ## 快捷键
 重启键盘 `LShift` + `RShift` + `b`  
 清除蓝牙设备信息 `LShift` + `RShift` + `LCtrl` + `r`  
+开启键盘蓝牙功能 `LShift` + `RShift` + `w`  
+关闭键盘蓝牙功能 `LShift` + `RShift` + `LCtrl` +`w`  
 蓝牙设置为可发现 `LShift` + `RShift` + `i`  
 蓝牙设置为不可发现 `LShift` + `RShift` + `o`  
 
